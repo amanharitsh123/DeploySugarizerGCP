@@ -2,6 +2,7 @@
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get install git
+sudo apt-get install curl
 #Cloning Sugarizer
 git clone https://github.com/llaske/sugarizer
 git clone https://github.com/llaske/sugarizer-server
