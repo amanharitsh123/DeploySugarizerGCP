@@ -14,4 +14,4 @@ sudo chmod +x /usr/local/bin/docker-compose
 #Starting Server up
 cd sugarizer-server
 sh generate-docker-compose.sh
-docker-compose up -d
+sudo docker-compose up -d
